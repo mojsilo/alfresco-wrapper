@@ -1,0 +1,11 @@
+<entry>
+	<string>{http://www.organizeddocs.com/model/content/1.0}project</string>
+	<nodeRef>
+			<id>${project.id}</id>
+			<propertyName></propertyName>
+			<name><![CDATA[${project.name}]]></name>
+			<storeProtocol>${project.properties["sys:store-protocol"]}</storeProtocol>
+			<storeIdentifier>${project.properties["sys:store-identifier"]}</storeIdentifier>
+			<type>${project.type}</type>
+		</nodeRef>
+</entry>

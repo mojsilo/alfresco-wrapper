@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Yanado Create group</shortname>
+  <description>Yanado Create Group</description>
+  <url>/yanado/creategroup/</url>
+  <format default="html">argument</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>
+

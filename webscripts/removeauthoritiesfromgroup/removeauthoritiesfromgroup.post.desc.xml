@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Yanado serach</shortname>
+  <description>Yanado serach</description>
+  <url>/yanado/removeauthoritiesfromgroup/</url>
+  <format default="html">argument</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>
+

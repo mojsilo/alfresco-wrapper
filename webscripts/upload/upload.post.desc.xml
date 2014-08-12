@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Upload</shortname>
+  <url>/yanado/upload/</url>
+  <format default="html"/>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+  </webscript>

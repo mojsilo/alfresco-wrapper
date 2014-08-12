@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Yanado Create folder</shortname>
+  <description>Yanado Create folder</description>
+  <url>/yanado/createfolder/</url>
+  <format default="html">argument</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>
+

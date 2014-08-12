@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Yanado list groups</shortname>
+  <description>Yanado list groups</description>
+  <url>/yanado/listgroups/</url>
+  <format default="html">argument</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>
+
