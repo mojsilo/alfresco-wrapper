@@ -18,5 +18,3 @@ model.adminvalue=false;
 	}
 //}
 model.nodes = peopleCollection;
-model.include="useradition.ftl";
-
